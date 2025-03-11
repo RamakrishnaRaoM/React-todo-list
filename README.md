@@ -8,7 +8,7 @@ A simple Todo List application that allows users to add tasks with a description
 
 ## Getting Started
 Follow these steps to set up and run the Todo List app locally.
-###Installation
+### Installation
 1.Clone the repository:
 ```bash
 git clone https://github.com/RamakrishnaRaoM/React-todo-list.git
