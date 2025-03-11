@@ -36,3 +36,4 @@ npm run dev
 3.Delete Tasks
 - Delete a particular task using delete button.
 
+If there are no todo's then it displays a message as 'Enjoy Your day'.
