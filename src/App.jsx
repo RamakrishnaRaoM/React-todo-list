@@ -5,7 +5,7 @@ import WelcomeMessage from "./components/WelcomeMessage";
 import "./App.css";
 import { useState } from "react";
 
-function App() {
+function App() { 
   const [todoItems, setTodoItems] = useState([]);
 
   const handleNewItem = (itemName, itemDueDate) => {
